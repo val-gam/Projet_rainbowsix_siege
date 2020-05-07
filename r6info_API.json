@@ -1,7 +1,7 @@
 {
   "count":52,
 "results":
-[
+          [
   {
     "NameCode":"Alibi",
     "Affiliation":"GIS",
@@ -9,8 +9,8 @@
     "Team":"Defender",
     "RealName":"Aria de Luca",
     "Birthdate":"December 15, 1980",
-    "height(m)":"1.71",
-    "weight(kg)":"63",
+    "height":"1.71",
+    "weight":"63",
     "Photo":""
   },
   {
@@ -20,8 +20,8 @@
     "Team":"Attacker",
     "RealName":"Azucena Rocio Quispe",
     "Birthdate":"May 6, 1971",
-    "height(m)":"1.89",
-    "weight(kg)":"84",
+    "height":"1.89",
+    "weight":"84",
     "Photo":""
   },
   {
@@ -31,8 +31,8 @@
     "Team":"Attacker",
     "RealName":"Eliza Cohen",
     "Birthdate":"December 24, 1983",
-    "height(m)":"1.70",
-    "weight(kg)":"63",
+    "height":"1.70",
+    "weight":"63",
     "Photo":""
   },
   {
@@ -42,8 +42,8 @@
     "Team":"Defender",
     "RealName":"Dominic Brunsmeier",
     "Birthdate":"August 13, 1974",
-    "height(m)":"1.80",
-    "weight(kg)":"68",
+    "height":"1.80",
+    "weight":"68",
     "Photo":""
   },
   {
@@ -53,8 +53,8 @@
     "Team":"Attacker",
     "RealName":"Craig Jenson",
     "Birthdate":"March 12, 1985",
-    "height(m)":"1.80",
-    "weight(kg)":"84",
+    "height":"1.80",
+    "weight":"84",
     "Photo":""
   },
   {
@@ -64,8 +64,8 @@
     "Team":"Attacker",
     "RealName":"Elias Kötz",
     "Birthdate":"April 2, 1980",
-    "height(m)":"1.75",
-    "weight(kg)":"75",
+    "height":"1.75",
+    "weight":"75",
     "Photo":""
   },
   {
@@ -75,8 +75,8 @@
     "Team":"Attacker",
     "RealName":"Sebastien Côté",
     "Birthdate":"August 20, 1980",
-    "height(m)":"1.78",
-    "weight(kg)":"78",
+    "height":"1.78",
+    "weight":"78",
     "Photo":""
   },
   {
@@ -86,8 +86,8 @@
     "Team":"Attacker",
     "RealName":"Vicente Souza",
     "Birthdate":"November 17, 1967",
-    "height(m)":"1.83",
-    "weight(kg)":"86",
+    "height":"1.83",
+    "weight":"86",
     "Photo":""
   },
   {
@@ -97,8 +97,8 @@
     "Team":"Defender",
     "RealName":"Miles Campbell",
     "Birthdate":"September 20, 1980",
-    "height(m)":"1.85",
-    "weight(kg)":"86",
+    "height":"1.85",
+    "weight":"86",
     "Photo":""
   },
   {
@@ -108,8 +108,8 @@
     "Team":"Defender",
     "RealName":"Taina Pereira",
     "Birthdate":"October 15, 1989",
-    "height(m)":"1.77",
-    "weight(kg)":"72",
+    "height":"1.77",
+    "weight":"72",
     "Photo":""
   },
   {
@@ -119,8 +119,8 @@
     "Team":"Defender",
     "RealName":"Morowa Evans",
     "Birthdate":"June 7, 1983",
-    "height(m)":"1.79",
-    "weight(kg)":"73",
+    "height":"1.79",
+    "weight":"73",
     "Photo":""
   },
   {
@@ -130,8 +130,8 @@
     "Team":"Defender",
     "RealName":"Gustave Kateb",
     "Birthdate":"September 16, 1977",
-    "height(m)":"1.77",
-    "weight(kg)":"74",
+    "height":"1.77",
+    "weight":"74",
     "Photo":""
   },
   {
@@ -141,8 +141,8 @@
     "Team":"Attacker",
     "RealName":"Grace Nam",
     "Birthdate":"February 2, 1988",
-    "height(m)":"1.69",
-    "weight(kg)":"62",
+    "height":"1.69",
+    "weight":"62",
     "Photo":""
   },
   {
@@ -152,8 +152,8 @@
     "Team":"Defender",
     "RealName":"Masaru Enatsu",
     "Birthdate":"Octoer 31, 1980",
-    "height(m)":"1.80",
-    "weight(kg)":"72",
+    "height":"1.80",
+    "weight":"72",
     "Photo":""
   },
   {
@@ -163,8 +163,8 @@
     "Team":"Defender",
     "RealName":"Elzbieta Bosak",
     "Birthdate":"November 8, 1985",
-    "height(m)":"1.73",
-    "weight(kg)":"68",
+    "height":"1.73",
+    "weight":"68",
     "Photo":""
   },
   {
@@ -174,8 +174,8 @@
     "Team":"Attacker",
     "RealName":"Lera Melnikova",
     "Birthdate":"June 7, 1989",
-    "height(m)":"1.71",
-    "weight(kg)":"68",
+    "height":"1.71",
+    "weight":"68",
     "Photo":""
   },
   {
@@ -185,8 +185,8 @@
     "Team":"Defender",
     "RealName":"Tina Lin Tsang",
     "Birthdate":"March 4, 1985",
-    "height(m)":"1.72",
-    "weight(kg)":"63",
+    "height":"1.72",
+    "weight":"63",
     "Photo":""
   },
   {
@@ -196,8 +196,8 @@
     "Team":"Attacker",
     "RealName":"Shuhrat Kessikbayev",
     "Birthdate":"October 12, 1982",
-    "height(m)":"1.80",
-    "weight(kg)":"80",
+    "height":"1.80",
+    "weight":"80",
     "Photo":""
   },
   {
@@ -207,8 +207,8 @@
     "Team":"Attacker",
     "RealName":"Timur Glazkov",
     "Birthdate":"June 2, 1987",
-    "height(m)":"1.78",
-    "weight(kg)":"79",
+    "height":"1.78",
+    "weight":"79",
     "Photo":""
   },
   {
@@ -218,8 +218,8 @@
     "Team":"Defender",
     "RealName":"César Ruiz Hernandez",
     "Birthdate":"June 10, 1988",
-    "height(m)":"1.71",
-    "weight(kg)":"83",
+    "height":"1.71",
+    "weight":"83",
     "Photo":""
   },
   {
@@ -229,8 +229,8 @@
     "Team":"Attacker",
     "RealName":"Tori Tallyo Fairous",
     "Birthdate":"August 5, 1982",
-    "height(m)":"1.77",
-    "weight(kg)":"102",
+    "height":"1.77",
+    "weight":"102",
     "Photo":""
   },
   {
@@ -240,8 +240,8 @@
     "Team":"Attacker",
     "RealName":"Yumiko Imagawa",
     "Birthdate":"July 12, 1983",
-    "height(m)":"1.73",
-    "weight(kg)":"57",
+    "height":"1.73",
+    "weight":"57",
     "Photo":""
   },
   {
@@ -251,8 +251,8 @@
     "Team":"Attacker",
     "RealName":"Nienke Meijer",
     "Birthdate":"August 27, 1984",
-    "height(m)":"1.57",
-    "weight(kg)":"56",
+    "height":"1.57",
+    "weight":"56",
     "Photo":""
   },
   {
@@ -262,8 +262,8 @@
     "Team":"Attacker",
     "Real Name":"Monika Weiss",
     "Birthdate":"August 1, 1979",
-    "height(m)":"1.75",
-    "weight(kg)":"70",
+    "height":"1.75",
+    "weight":"70",
     "Photo":""
   },
   {
@@ -273,8 +273,8 @@
     "Team":"Attacker",
     "RealName":"Ryad Ramirez Al-Hassar",
     "Birthdate":"February 29, 1968",
-    "height(m)":"1.90",
-    "weight(kg)":"78",
+    "height":"1.90",
+    "weight":"78",
     "Photo":""
   },
   {
@@ -284,8 +284,8 @@
     "Team":"Defender",
     "RealName":"Marius Streicher",
     "Birthdate":"March 9, 1978",
-    "height(m)":"1.80",
-    "weight(kg)":"64",
+    "height":"1.80",
+    "weight":"64",
     "Photo":""
   },
   {
@@ -295,8 +295,8 @@
     "Team":"Defender",
     "RealName":"Jalal El Fassi",
     "Birthdate":"June 26, 1960",
-    "height(m)":"1.95",
-    "weight(kg)":"98",
+    "height":"1.95",
+    "weight":"98",
     "Photo":""
   },
   {
@@ -306,8 +306,8 @@
     "Team":"Attacker",
     "RealName":"Jaimini Kalimohan Shah",
     "Birthdate":"August 21, 1985",
-    "height(m)":"1.70",
-    "weight(kg)":"67",
+    "height":"1.70",
+    "weight":"67",
     "Photo":""
   },
   {
@@ -317,8 +317,8 @@
     "Team":"Defender",
     "RealName":"Maxim Basuda",
     "Birthdate":"May 14, 1979",
-    "height(m)":"1.80",
-    "weight(kg)":"80",
+    "height":"1.80",
+    "weight":"80",
     "Photo":""
   },
   {
@@ -328,8 +328,8 @@
     "Team":"Defender",
     "RealName":"Liu Tze Long",
     "Birthdate":"July 2, 1972",
-    "height(m)":"1.74",
-    "weight(kg)":"82",
+    "height":"1.74",
+    "weight":"82",
     "Photo":""
   },
   {
@@ -339,8 +339,8 @@
     "Team":"Attacker",
     "RealName":"Olivier Flament",
     "Birthdate":"August 29, 1985",
-    "height(m)":"1.85",
-    "weight(kg)":"87",
+    "height":"1.85",
+    "weight":"87",
     "Photo":""
   },
   {
@@ -350,8 +350,8 @@
     "Team":"Defender",
     "RealName":"Adriano Martello",
     "Birthdate":"April 13, 1973",
-    "height(m)":"1.85",
-    "weight(kg)":"87",
+    "height":"1.85",
+    "weight":"87",
     "Photo":""
   },
   {
@@ -361,8 +361,8 @@
     "Team":"Attacker",
     "RealName":"Erik Thorn",
     "Birthdate":"April 20, 1982",
-    "height(m)":"1.80",
-    "weight(kg)":"82",
+    "height":"1.80",
+    "weight":"82",
     "Photo":""
   },
   {
@@ -372,8 +372,8 @@
     "Team":"Defender",
     "Real Name":"Elena Maria Alvarez",
     "Birthdate":"November 18, 1977",
-    "height(m)":"1.65",
-    "weight(kg)":"60",
+    "height":"1.65",
+    "weight":"60",
     "Photo":""
   },
   {
@@ -383,8 +383,8 @@
     "Team":"Attacker",
     "RealName":"Gilles Touré",
     "Birthdate":"October 11, 1968",
-    "height(m)":"1.90",
-    "weight(kg)":"90",
+    "height":"1.90",
+    "weight":"90",
     "Photo":""
   },
   {
@@ -394,8 +394,8 @@
     "Team":"Defender",
     "RealName":"Max Goose",
     "Birthdate":"February 15, 1984",
-    "height(m)":"1.62",
-    "weight(kg)":"57",
+    "height":"1.62",
+    "weight":"57",
     "Photo":""
   },
   {
@@ -405,8 +405,8 @@
     "Team":"Defender",
     "RealName":"Mark Chander",
     "Birthdate":"October 11, 1991",
-    "height(m)":"1.85",
-    "weight(kg)":"80",
+    "height":"1.85",
+    "weight":"80",
     "Photo":""
   },
   {
@@ -416,8 +416,8 @@
     "Team":"Attacker",
     "RealName":"No Data",
     "Birthdate":"No Data",
-    "height(m)":"No Data",
-    "weight(kg)":"No Data",
+    "height":"No Data",
+    "weight":"No Data",
     "Photo":""
   },
   {
@@ -427,8 +427,8 @@
     "Team":"Attacker",
     "RealName":"Sanaa El Maktoub",
     "Birthdate":"July 27, 1979",
-    "height(m)":"1.71",
-    "weight(kg)":"63",
+    "height":"1.71",
+    "weight":"63",
     "Photo":""
   },
   {
@@ -438,8 +438,8 @@
     "Team":"Defender",
     "RealName":"Saif Al Hadid",
     "Birthdate":"July 3, 1974",
-    "height(m)":"1.95",
-    "weight(kg)":"130",
+    "height":"1.95",
+    "weight":"130",
     "Photo":""
   },
   {
@@ -449,8 +449,8 @@
     "Team":"Defender",
     "RealName":"Jack Estrada",
     "Birthdate":"October 11, 1984",
-    "height(m)":"1.88",
-    "weight(kg)":"85",
+    "height":"1.88",
+    "weight":"85",
     "Photo":""
   },
   {
@@ -460,8 +460,8 @@
     "Team":"Defender",
     "RealName":"Julien Nizan",
     "Birthdate":"January 6, 1990",
-    "height(m)":"1.75",
-    "weight(kg)":"72",
+    "height":"1.75",
+    "weight":"72",
     "Photo":""
   },
   {
@@ -471,8 +471,8 @@
     "Team":"Attacker",
     "RealName":"Seamus Cowden",
     "Birthdate":"April 2, 1982",
-    "height(m)":"1.92",
-    "weight(kg)":"95",
+    "height":"1.92",
+    "weight":"95",
     "Photo":""
   },
   {
@@ -482,8 +482,8 @@
     "Team":"Defender",
     "RealName":"James Porter",
     "Birthdate":"May 14, 1990",
-    "height(m)":"1.73",
-    "weight(kg)":"70",
+    "height":"1.73",
+    "weight":"70",
     "Photo":""
   },
   {
@@ -493,8 +493,8 @@
     "Team":"Defender",
     "RealName":"Alexsandr Senaviev",
     "Birthdate":"November 3, 1967",
-    "height(m)":"1.83",
-    "weight(kg)":"86",
+    "height":"1.83",
+    "weight":"86",
     "Photo":""
   },
   {
@@ -504,8 +504,8 @@
     "Team":"Attacker",
     "RealName":"Mike Baker",
     "Birthdate":"June 22, 1961",
-    "height(m)":"1.80",
-    "weight(kg)":"72",
+    "height":"1.80",
+    "weight":"72",
     "Photo":""
   },
   {
@@ -515,8 +515,8 @@
     "Team":"Attacker",
     "RealName":"Jordan Trace",
     "Birthdate":"March 14, 1982",
-    "height(m)":"1.78",
-    "weight(kg)":"80",
+    "height":"1.78",
+    "weight":"80",
     "Photo":""
   },
   {
@@ -526,8 +526,8 @@
     "Team":"Attacker",
     "RealName":"Emmanuelle Pichon",
     "Birthdate":"October 12, 1988",
-    "height(m)":"1.68",
-    "weight(kg)":"58",
+    "height":"1.68",
+    "weight":"58",
     "Photo":""
   },
   {
@@ -537,8 +537,8 @@
     "Team":"Defender",
     "RealName":"Meghan J. Castellano",
     "Birthdate":"July 21, 1986",
-    "height(m)":"1.70",
-    "weight(kg)":"61",
+    "height":"1.70",
+    "weight":"61",
     "Photo":""
   },
   {
@@ -548,8 +548,8 @@
     "Team":"Defender",
     "RealName":"Chul Kyung Hwa",
     "Birthdate":"January 17, 1984",
-    "height(m)":"1.73",
-    "weight(kg)":"73",
+    "height":"1.73",
+    "weight":"73",
     "Photo":""
   },
   {
@@ -559,8 +559,8 @@
     "Team":"Defender",
     "RealName":"Ngugi Muchoki Furaha",
     "Birthdate":"June 1, 1991",
-    "height(m)":"1.87",
-    "weight(kg)":"83",
+    "height":"1.87",
+    "weight":"83",
     "Photo":""
   },
   {
@@ -570,8 +570,8 @@
     "Team":"Defender",
     "RealName":"Collinn McKinley",
     "Birthdate":"March 18, 1971",
-    "height(m)":"1.83",
-    "weight(kg)":"80",
+    "height":"1.83",
+    "weight":"80",
     "Photo":""
   },
   {
@@ -581,8 +581,8 @@
     "Team":"Attacker",
     "RealName":"Siu Mei Lin",
     "Birthdate":"May 12, 1983",
-    "height(m)":"1.60",
-    "weight(kg)":"52",
+    "height":"1.60",
+    "weight":"52",
     "Photo":""
   },
   {
@@ -592,8 +592,8 @@
     "Team":"Attacker",
     "RealName":"Zofia Bosak",
     "Birthdate":"January 28, 1981",
-    "height(m)":"1.79",
-    "weight(kg)":"72",
+    "height":"1.79",
+    "weight":"72",
     "Photo":""
   }
 ]
