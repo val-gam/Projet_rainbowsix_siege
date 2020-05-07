@@ -2,7 +2,7 @@
   "count":52,
 "results":
           [
-  { "Embleme":"Alibi.PNG",
+  { "Embleme":"alibi.PNG",
     "NameCode":"Alibi",
     "Affiliation":"GIS",
     "birthcountry":"Libya",
@@ -13,7 +13,7 @@
     "weight":"63",
     "Photo":""
   },
-  { "Embleme":"Amaru.PNG",
+  { "Embleme":"amaru.PNG",
     "NameCode":"Amaru",
     "Affiliation":"APCA",
     "birthcountry":"Peru",
@@ -24,7 +24,8 @@
     "weight":"84",
     "Photo":""
   },
-  {
+  { 
+    "Embleme":"ash.PNG",
     "NameCode":"Ash",
     "Affiliation":"SWAT",
     "birthcountry":"Israel",
@@ -35,7 +36,7 @@
     "weight":"63",
     "Photo":""
   },
-  {
+  { "embleme":"bandit.PNG"
     "NameCode":"Bandit",
     "Affiliation":"GSG9",
     "birthcountry":"Germany",
