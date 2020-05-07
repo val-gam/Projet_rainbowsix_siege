@@ -2,7 +2,7 @@
   "count":52,
 "results":
           [
-  { "Embleme":"Alibi.PNG"
+  { "Embleme":"Alibi.PNG",
     "NameCode":"Alibi",
     "Affiliation":"GIS",
     "birthcountry":"Libya",
@@ -13,7 +13,7 @@
     "weight":"63",
     "Photo":""
   },
-  { "Embleme":"Amaru.PNG"
+  { "Embleme":"Amaru.PNG",
     "NameCode":"Amaru",
     "Affiliation":"APCA",
     "birthcountry":"Peru",
