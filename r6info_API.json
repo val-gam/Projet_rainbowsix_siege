@@ -2,7 +2,7 @@
   "count":52,
 "results":
           [
-  { "Embleme":"https://github.com/val-gam/Projet_rainbowsix_siege/blob/master/image%20agent/Alibi.PNG",
+  { "Embleme":"https://vignette.wikia.nocookie.net/rainbowsix/images/d/d7/Alibi_-_Icon.png/revision/latest/scale-to-width-down/360?cb=20180522220413",
     "NameCode":"Alibi",
     "Affiliation":"GIS",
     "birthcountry":"Libya",
@@ -13,7 +13,7 @@
     "weight":"63",
     "Photo":""
   },
-  { "Embleme":"https://github.com/val-gam/Projet_rainbowsix_siege/blob/master/image%20agent/Amaru.PNG",
+  { "Embleme":"",
     "NameCode":"Amaru",
     "Affiliation":"APCA",
     "birthcountry":"Peru",
@@ -25,7 +25,7 @@
     "Photo":""
   },
   { 
-    "Embleme":"https://github.com/val-gam/Projet_rainbowsix_siege/blob/master/image%20agent/Ash.PNG",
+    "Embleme":"",
     "NameCode":"Ash",
     "Affiliation":"SWAT",
     "birthcountry":"Israel",
