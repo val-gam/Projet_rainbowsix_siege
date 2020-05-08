@@ -25,7 +25,7 @@
     "Photo":""
   },
   { 
-    "Embleme":"https://vignette.wikia.nocookie.net/rainbowsix/images/d/d7/Ash_Icon_-_Standard.png/revision/latest?cb=20151222045522",
+    "Embleme":"",
     "NameCode":"Ash",
     "Affiliation":"SWAT",
     "birthcountry":"Israel",
@@ -36,7 +36,7 @@
     "weight":"63",
     "Photo":""
   },
-  { "Embleme":"https://vignette.wikia.nocookie.net/rainbowsix/images/3/30/Bandit_Badge_2.png/revision/latest?cb=20151222045523",
+  { "Embleme":"",
     "NameCode":"Bandit",
     "Affiliation":"GSG9",
     "birthcountry":"Germany",
@@ -47,7 +47,7 @@
     "weight":"68",
     "Photo":""
   },
-  { "Embleme":"https://vignette.wikia.nocookie.net/rainbowsix/images/d/dd/Blackbeard_badge.png/revision/latest?cb=20160509214645"
+  { "Embleme":""
     "NameCode":"Blackbeard",
     "Affiliation":"Navy Seal",
     "birthcountry":"USA",
@@ -58,7 +58,7 @@
     "weight":"84",
     "Photo":""
   },
-  { "Embleme":"https://vignette.wikia.nocookie.net/rainbowsix/images/6/62/Blitz_Badge_2.png/revision/latest?cb=20151222045523"
+  { "Embleme":""
     "NameCode":"Blitz",
     "Affiliation":"GSG9",
     "birthcountry":"Germany",
@@ -69,7 +69,7 @@
     "weight":"75",
     "Photo":""
   },
-  { "Embleme":"https://vignette.wikia.nocookie.net/rainbowsix/images/3/34/Buck_Badge_New.png/revision/latest?cb=20160203040454"
+  { "Embleme":""
     "NameCode":"Buck",
     "Affiliation":"JTF2",
     "birthcountry":"Canada",
