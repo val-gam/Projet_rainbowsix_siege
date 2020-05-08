@@ -410,7 +410,7 @@
     "weight":"80",
     "Photo":""
   },
-  { "Embleme":"",
+  { "Embleme":"https://vignette.wikia.nocookie.net/rainbowsix/images/2/2e/Nokk.png/revision/latest?cb=20190523003359",
     "NameCode":"Nokk",
     "Affiliation":"Jaeger Corps",
     "birthcountry":"No Data",
@@ -421,7 +421,7 @@
     "weight":"No Data",
     "Photo":""
   },
-  { "Embleme":"",
+  { "Embleme":"https://vignette.wikia.nocookie.net/rainbowsix/images/8/8d/R6S-Nomad.png/revision/latest?cb=20181119191959",
     "NameCode":"Nomad",
     "Affiliation":"GIGR",
     "birthcountry":"Morocco",
@@ -432,7 +432,7 @@
     "weight":"63",
     "Photo":""
   },
-  { "Embleme":"",
+  { "Embleme":"https://vignette.wikia.nocookie.net/rainbowsix/images/8/89/Oryx_Icon.png/revision/latest?cb=20200311062523",
     "NameCode":"Oryx",
     "Affiliation":"Unaffiliated",
     "birthcountry":"Jordan",
@@ -443,7 +443,7 @@
     "weight":"130",
     "Photo":""
   },
-  { "Embleme":"",
+  { "Embleme":"https://vignette.wikia.nocookie.net/rainbowsix/images/4/40/Pulse_Badge_2.png/revision/latest?cb=20151222045526",
     "NameCode":"Pulse",
     "Affiliation":"SWAT",
     "birthcountry":"USA",
@@ -454,7 +454,7 @@
     "weight":"85",
     "Photo":""
   },
-  { "Embleme":"",
+  { "Embleme":"https://vignette.wikia.nocookie.net/rainbowsix/images/a/ab/Rook_Badge_New_2.png/revision/latest?cb=20151222045526",
     "NameCode":"Rook",
     "Affiliation":"GIGN",
     "birthcountry":"Frace",
@@ -465,7 +465,7 @@
     "weight":"72",
     "Photo":""
   },
-  { "Embleme":"",
+  { "Embleme":"https://vignette.wikia.nocookie.net/rainbowsix/images/7/76/Sledge_Icon_-_Standard.png/revision/latest?cb=20151222045526",
     "NameCode":"Sledge",
     "Affiliation":"SAS",
     "birthcountry":"Scotland",
@@ -476,7 +476,7 @@
     "weight":"95",
     "Photo":""
   },
-  { "Embleme":"",
+  { "Embleme":"https://vignette.wikia.nocookie.net/rainbowsix/images/a/ae/Smoke_Icon_-_Standard.png/revision/latest?cb=20151222045526",
     "NameCode":"Smoke",
     "Affiliation":"SAS",
     "birthcountry":"England",
@@ -487,7 +487,7 @@
     "weight":"70",
     "Photo":""
   },
-  { "Embleme":"",
+  { "Embleme":"https://vignette.wikia.nocookie.net/rainbowsix/images/4/47/Tachanka_Badge.png/revision/latest?cb=20151202171641",
     "NameCode":"Tachanka",
     "Affiliation":"Spetsnaz",
     "birthcountry":"Russia",
@@ -498,7 +498,7 @@
     "weight":"86",
     "Photo":""
   },
-  { "Embleme":"", 
+  { "Embleme":"https://vignette.wikia.nocookie.net/rainbowsix/images/6/6d/Thatcher_Icon_-_Standard.png/revision/latest?cb=20151222045527", 
     "NameCode":"Thatcher",
     "Affiliation":"SAS",
     "birthcountry":"England",
@@ -509,7 +509,7 @@
     "weight":"72",
     "Photo":""
   },
-  { "Embleme":"",
+  { "Embleme":"https://vignette.wikia.nocookie.net/rainbowsix/images/e/e3/Thermite_Badge_2.png/revision/latest?cb=20151222045527",
     "NameCode":"Thermite",
     "Affiliation":"SWAT",
     "birthcountry":"USA",
@@ -520,7 +520,7 @@
     "weight":"80",
     "Photo":""
   },
-  { "Embleme":"",
+  { "Embleme":"https://vignette.wikia.nocookie.net/rainbowsix/images/4/47/Twitch_Badge_New_2.png/revision/latest?cb=20151222045527",
     "NameCode":"Twitch",
     "Affiliation":"GIGN",
     "birthcountry":"France",
@@ -531,7 +531,7 @@
     "weight":"58",
     "Photo":""
   },
-  { "Embleme":"",
+  { "Embleme":"https://vignette.wikia.nocookie.net/rainbowsix/images/e/ef/Valkyrie_badge.png/revision/latest?cb=20160509214702",
     "NameCode":"Valkyrie",
     "Affiliation":"Navy Seal",
     "birthcountry":"USA",
@@ -542,7 +542,7 @@
     "weight":"61",
     "Photo":""
   },
-  { "Embleme":"",
+  { "Embleme":"https://vignette.wikia.nocookie.net/rainbowsix/images/1/1d/Vigil_icon.png/revision/latest?cb=20171120223005",
     "NameCode":"Vigil",
     "Affiliation":"707th SMB",
     "birthcountry":"North Korea",
@@ -553,7 +553,7 @@
     "weight":"73",
     "Photo":""
   },
-  { "Embleme":"",
+  { "Embleme":"https://vignette.wikia.nocookie.net/rainbowsix/images/c/cc/Wamai_Icon_2.png/revision/latest?cb=20191111223721",
     "NameCode":"Wamai",
     "Affiliation":"NightHaven",
     "birthcountry":"Kenya",
@@ -564,7 +564,7 @@
     "weight":"83",
     "Photo":""
   },
-  { "Embleme":"",
+  { "Embleme":"https://vignette.wikia.nocookie.net/rainbowsix/images/a/a5/Warden.png/revision/latest?cb=20190701101127",
     "NameCode":"Warden",
     "Affiliation":"USMC",
     "birthcountry":"USA",
@@ -575,7 +575,7 @@
     "weight":"80",
     "Photo":""
   },
-  { "Embleme":"",
+  { "Embleme":"https://vignette.wikia.nocookie.net/rainbowsix/images/d/d7/R6S-Ying.png/revision/latest?cb=20170828194010",
     "NameCode":"Ying",
     "Affiliation":"SDU",
     "birthcountry":"Hong Kong",
@@ -586,7 +586,7 @@
     "weight":"52",
     "Photo":""
   },
-  { "Embleme":"",
+  { "Embleme":"https://vignette.wikia.nocookie.net/rainbowsix/images/f/fb/Zofia_icon.png/revision/latest?cb=20171115182418",
     "NameCode":"Zofia",
     "Affiliation":"Grom",
     "birthcountry":"Poland",
