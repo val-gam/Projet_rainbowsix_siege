@@ -2,7 +2,7 @@
   "count":52,
 "results":
           [
-  { "Embleme":"alibi.PNG",
+  { "Embleme":"https://github.com/val-gam/Projet_rainbowsix_siege/blob/master/image%20agent/Alibi.PNG",
     "NameCode":"Alibi",
     "Affiliation":"GIS",
     "birthcountry":"Libya",
@@ -13,7 +13,7 @@
     "weight":"63",
     "Photo":""
   },
-  { "Embleme":"amaru.PNG",
+  { "Embleme":"https://github.com/val-gam/Projet_rainbowsix_siege/blob/master/image%20agent/Amaru.PNG",
     "NameCode":"Amaru",
     "Affiliation":"APCA",
     "birthcountry":"Peru",
@@ -25,7 +25,7 @@
     "Photo":""
   },
   { 
-    "Embleme":"ash.PNG",
+    "Embleme":"https://github.com/val-gam/Projet_rainbowsix_siege/blob/master/image%20agent/Ash.PNG",
     "NameCode":"Ash",
     "Affiliation":"SWAT",
     "birthcountry":"Israel",
